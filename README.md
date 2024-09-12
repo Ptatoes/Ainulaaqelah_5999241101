@@ -12,6 +12,13 @@ Contact page
 lastly this is the about page
 ![image](https://github.com/user-attachments/assets/aea4c6d5-e376-4b1e-8894-09a7395474b3)
 
+New update on 12/9/2024
+
+Blog Page 
+
+![image](https://github.com/user-attachments/assets/9b10a27f-358b-401c-9371-941b17f1eb37)
+
+
 
 
 
