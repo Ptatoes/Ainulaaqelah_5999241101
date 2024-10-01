@@ -57,14 +57,17 @@ The documentation for the foreign key
 Documentation to use existing models data for relationship/ to use existing factories
 for 1 id to many 
 
-![image](https://github.com/user-attachments/assets/78f7d838-41ca-4d8c-bd67-7db908f33fc2)
+![image](https://github.com/user-attachments/assets/5a124c17-eba8-434e-8b0c-6caa0282c658)
+
 
 to create 100 data of the post
 
-![image](https://github.com/user-attachments/assets/a8739f15-3af8-499a-9a82-d76fdc18da06)
+![image](https://github.com/user-attachments/assets/b5507786-156b-476f-b3eb-5c4a77ca83cb)
+
 
 to recycle the user data for repeating in the post data for the (author)
 
-![image](https://github.com/user-attachments/assets/dccb5043-9df1-46ca-99f2-abcceaf3abd7)
+![image](https://github.com/user-attachments/assets/9b4aa063-d10d-4701-a25f-1790e5a192d1)
+
 
 the first 'create' is for the recycle user data and the last 'create' function is for the post data
