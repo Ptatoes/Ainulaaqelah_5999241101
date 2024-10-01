@@ -83,3 +83,9 @@ to declare the author data connected to the post
 ![image](https://github.com/user-attachments/assets/364acbfb-109f-4ffb-af12-f5bd7c28b8fe)
 
 this for user to post as one to many, also set the foriegn key 
+
+![image](https://github.com/user-attachments/assets/63a5f1fb-ba44-4f06-a285-85b02cb84824)
+
+change the path to get the name at the post (view) folder
+
+Step to click the author name and show all the post that have been write by the same author
