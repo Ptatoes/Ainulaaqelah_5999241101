@@ -71,3 +71,15 @@ to recycle the user data for repeating in the post data for the (author)
 
 
 the first 'create' is for the recycle user data and the last 'create' function is for the post data
+
+![image](https://github.com/user-attachments/assets/8318f776-fc0f-4798-9dd4-6b9a1390b905)
+
+command to check the details of the specific post
+
+![image](https://github.com/user-attachments/assets/cd351d8d-7763-462d-b859-941783443797)
+
+to declare the author data connected to the post
+
+![image](https://github.com/user-attachments/assets/364acbfb-109f-4ffb-af12-f5bd7c28b8fe)
+
+this for user to post as one to many, also set the foriegn key 
