@@ -38,6 +38,33 @@ to change the language setting or to set name according to desire country for th
 
 #use( php artisan migrate:fresh ) to delete all the data that have been insert in the database
 
+ELOQUENT RELATIONSHIP
+
+ Making the user as foriegn key for the post
+
+![image](https://github.com/user-attachments/assets/2745e3b9-9f63-4d9b-a957-2d50d77b3c25)
+
+The documentation for the foreign key 
+
+![image](https://github.com/user-attachments/assets/5f862ef5-670f-4448-9e4b-3dff8358f2a9)
+![image](https://github.com/user-attachments/assets/726bff61-db3c-4870-a890-9bc9778864c0)
 
 
+:set the author as foriegn key in the post table as constrained
 
+![image](https://github.com/user-attachments/assets/b45df178-7d42-4adb-9ed1-3635c4ac2a0e)
+
+Documentation to use existing models data for relationship/ to use existing factories
+for 1 id to many 
+
+![image](https://github.com/user-attachments/assets/78f7d838-41ca-4d8c-bd67-7db908f33fc2)
+
+to create 100 data of the post
+
+![image](https://github.com/user-attachments/assets/a8739f15-3af8-499a-9a82-d76fdc18da06)
+
+to recycle the user data for repeating in the post data for the (author)
+
+![image](https://github.com/user-attachments/assets/dccb5043-9df1-46ca-99f2-abcceaf3abd7)
+
+the first 'create' is for the recycle user data and the last 'create' function is for the post data
