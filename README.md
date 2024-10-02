@@ -98,6 +98,28 @@ change the href to get the path ^^
 
 Update POST CATEGORY ^^^
 
+DATABASE SEEDER
+(plant the database )
 
+![image](https://github.com/user-attachments/assets/9b4aa063-d10d-4701-a25f-1790e5a192d1)
 
+instead of doing this ^^^
 
+![image](https://github.com/user-attachments/assets/63282620-c1a5-46b3-a9d4-c688e0e67d6c)
+
+just do this ^^^
+
+![image](https://github.com/user-attachments/assets/0c9936e7-0e4f-4a30-a03c-96006858871c)
+set the command in the database seeder.php at the seeder folder^^
+
+![image](https://github.com/user-attachments/assets/065eb633-6741-4e80-8166-716f3730a29c)
+
+command to migrate fresh and seed the database at the same time^^
+
+![image](https://github.com/user-attachments/assets/ea323153-9a70-4031-9d55-026795d7e7b4)
+
+manually insert the data that we wanted^^
+
+![image](https://github.com/user-attachments/assets/c3d9eca8-2394-4d93-ba7a-63b593f8c515)
+
+fucntion to call the data from other seeders^^
