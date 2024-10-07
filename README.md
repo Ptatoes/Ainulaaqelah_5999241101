@@ -123,3 +123,24 @@ manually insert the data that we wanted^^
 ![image](https://github.com/user-attachments/assets/c3d9eca8-2394-4d93-ba7a-63b593f8c515)
 
 fucntion to call the data from other seeders^^
+
+N+1 PROBLEM
+
+N = total data that we have 
+1 = table post
+
+![image](https://github.com/user-attachments/assets/f8badc58-df23-4d37-861e-a075c7da8b5e)
+
+![image](https://github.com/user-attachments/assets/bfe1b03c-58e1-4c11-afb8-ade0c5636743)
+ to sort the post from the latest data
+
+![image](https://github.com/user-attachments/assets/2a51d95b-c35a-46f0-9db0-6de43bcf9557)
+
+set the part that need to lazy eager loading
+
+REDESIGN THE UI
+
+install flowbite
+![image](https://github.com/user-attachments/assets/0f5834e9-62d5-4ac6-933d-3018f5832056)
+
+![image](https://github.com/user-attachments/assets/07e82c1f-1793-422b-bb36-72eaa2e82fb0)
