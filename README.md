@@ -157,5 +157,11 @@ only take what is different.
 ![image](https://github.com/user-attachments/assets/a2d3fd05-b133-45ba-be3f-9545b34b681d)
 to add the colum^^
 
+PAGINATION
 
+![image](https://github.com/user-attachments/assets/1bbbd566-9df9-4c3a-ba5c-dd0d21bfbe32)
+Add in the web.php
 
+![image](https://github.com/user-attachments/assets/c3121803-c34e-4667-8b25-e0801d5a9510)
+
+insert in the page
