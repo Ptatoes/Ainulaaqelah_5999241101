@@ -144,3 +144,18 @@ install flowbite
 ![image](https://github.com/user-attachments/assets/0f5834e9-62d5-4ac6-933d-3018f5832056)
 
 ![image](https://github.com/user-attachments/assets/07e82c1f-1793-422b-bb36-72eaa2e82fb0)
+
+![image](https://github.com/user-attachments/assets/f4baf1ab-811c-46f2-9889-ba085af6e033)
+![image](https://github.com/user-attachments/assets/f7705e90-d10f-4f1c-a176-8056b92a7ea7)
+
+add the highlight part in the tailwind file.^^
+
+![image](https://github.com/user-attachments/assets/c4542cc7-5142-4add-9e08-98a236723b84)
+
+only take what is different.
+
+![image](https://github.com/user-attachments/assets/a2d3fd05-b133-45ba-be3f-9545b34b681d)
+to add the colum^^
+
+
+
