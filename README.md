@@ -123,3 +123,45 @@ manually insert the data that we wanted^^
 ![image](https://github.com/user-attachments/assets/c3d9eca8-2394-4d93-ba7a-63b593f8c515)
 
 fucntion to call the data from other seeders^^
+
+N+1 PROBLEM
+
+N = total data that we have 
+1 = table post
+
+![image](https://github.com/user-attachments/assets/f8badc58-df23-4d37-861e-a075c7da8b5e)
+
+![image](https://github.com/user-attachments/assets/bfe1b03c-58e1-4c11-afb8-ade0c5636743)
+ to sort the post from the latest data
+
+![image](https://github.com/user-attachments/assets/2a51d95b-c35a-46f0-9db0-6de43bcf9557)
+
+set the part that need to lazy eager loading
+
+REDESIGN THE UI
+
+install flowbite
+![image](https://github.com/user-attachments/assets/0f5834e9-62d5-4ac6-933d-3018f5832056)
+
+![image](https://github.com/user-attachments/assets/07e82c1f-1793-422b-bb36-72eaa2e82fb0)
+
+![image](https://github.com/user-attachments/assets/f4baf1ab-811c-46f2-9889-ba085af6e033)
+![image](https://github.com/user-attachments/assets/f7705e90-d10f-4f1c-a176-8056b92a7ea7)
+
+add the highlight part in the tailwind file.^^
+
+![image](https://github.com/user-attachments/assets/c4542cc7-5142-4add-9e08-98a236723b84)
+
+only take what is different.
+
+![image](https://github.com/user-attachments/assets/a2d3fd05-b133-45ba-be3f-9545b34b681d)
+to add the colum^^
+
+PAGINATION
+
+![image](https://github.com/user-attachments/assets/1bbbd566-9df9-4c3a-ba5c-dd0d21bfbe32)
+Add in the web.php
+
+![image](https://github.com/user-attachments/assets/c3121803-c34e-4667-8b25-e0801d5a9510)
+
+insert in the page
